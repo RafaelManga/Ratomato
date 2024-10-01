@@ -4,6 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_mangabeira_?igsh=YTZjcG1vaHk5d25s)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](rmsrafael06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mangabeira-135b7b322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
